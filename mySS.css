@@ -1,16 +1,4 @@
 @charset "UTF-8"
-
-
-
-h1
-{
-  text-align:center;
-}
-
-h1 span
-{
-  font-size:108px;
-}
   
 #bold
 {
@@ -36,4 +24,14 @@ body
 p.line
 {
   border:Crimson 1px dotted;
+}
+
+h1
+{
+  text-align:center;
+}
+
+h1 span
+{
+  font-size:108px;
 }

@@ -1,11 +1,5 @@
 @charset "UTF-8"
 
-.coloring
-{
-  color:SpringGreen;
-  background-color:LightSteelBlue;
-}
-
 body
 {
   background-color:PeachPuff;
@@ -34,4 +28,10 @@ h1 span
   line-height:50mm;
   font-weight:bold;
   text-align:center;
+}
+
+.coloring
+{
+  color:SpringGreen;
+  background-color:LightSteelBlue;
 }

@@ -10,14 +10,14 @@ body
 h1 span1
 {
   font-size:36px;
-  text-alien:center;
+  text-align:center;
 }
   
 #bold
 {
   line-height:50px;
   font-weight:bold;
-  text-alien:center;
+  text-align:center;
 }
 
 .coloring

@@ -1,11 +1,4 @@
 @charset "UTF-8"
-  
-#bold
-{
-  line-height:50mm;
-  font-weight:bold;
-  text-align:center;
-}
 
 .coloring
 {
@@ -34,4 +27,11 @@ h1
 h1 span
 {
   font-size:108px;
+}
+  
+#bold
+{
+  line-height:50mm;
+  font-weight:bold;
+  text-align:center;
 }

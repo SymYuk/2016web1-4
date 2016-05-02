@@ -1,5 +1,12 @@
 @charset "UTF-8"
 
+body
+{
+  background-color:PeachPuff;
+  background-image:url(./potato.jpg);
+  background-repeat:repeat-x;
+}
+
 h1 span1
 {
   font-size:36px;
@@ -10,11 +17,16 @@ h1 span1
 {
   line-height:50px;
   font-weight:bold;
+  text-alien:center;
 }
 
-.greening
+.coloring
 {
   color:SpringGreen;
+  background-color:LightSteelBlue;
 }
 
-  
+.p
+{
+  border:Crimson 3px dotted;
+}

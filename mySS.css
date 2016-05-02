@@ -1,13 +1,5 @@
 @charset "UTF-8"
 
-body
-{
-  background-color:PeachPuff;
-  background-image:url(./potato.jpeg);
-  background-repeat:repeat-x;
- 
-}
-
 p.line
 {
   border:Crimson 1px dotted;
@@ -32,4 +24,10 @@ h1 span
   background-color:LightSteelBlue;
 }
 
+body
+{
+  background-color:PeachPuff;
+  background-image:url(./potato.jpeg);
+  background-repeat:repeat-x;
+}
 

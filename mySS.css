@@ -1,9 +1,6 @@
 @charset "UTF-8"
 
-p.line
-{
-  border:Crimson 1px dotted;
-}
+
 
 h1
 {
@@ -36,3 +33,7 @@ body
   background-size:128px 128px;
 }
 
+p.line
+{
+  border:Crimson 1px dotted;
+}

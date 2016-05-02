@@ -5,10 +5,14 @@ p.line
   border:Crimson 1px dotted;
 }
 
+h1
+{
+  text-align:center;
+}
+
 h1 span
 {
   font-size:108px;
-  text-align:center;
 }
   
 #bold

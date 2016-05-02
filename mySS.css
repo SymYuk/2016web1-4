@@ -5,6 +5,7 @@ body
   background-color:PeachPuff;
   background-image:url(./potato.jpeg);
   background-repeat:repeat-x;
+  text-align:center;
 }
 
 p.line
@@ -15,14 +16,12 @@ p.line
 h1 span
 {
   font-size:108px;
-  text-align:center;
 }
   
 #bold
 {
   line-height:50px;
   font-weight:bold;
-  text-align:center;
 }
 
 .coloring

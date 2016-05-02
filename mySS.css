@@ -7,6 +7,11 @@ body
   background-repeat:repeat-x;
 }
 
+p.line
+{
+  border:Crimson 3px dotted;
+}
+
 h1 span
 {
   font-size:108px;
@@ -26,7 +31,4 @@ h1 span
   background-color:LightSteelBlue;
 }
 
-p
-{
-  border:Crimson 3px dotted;
-}
+
